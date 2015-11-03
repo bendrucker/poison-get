@@ -1,7 +1,7 @@
 {
   "name": "poison-get",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Throw when a user attempts to access specified properties in an object",
   "license": "MIT",
   "repository": "bendrucker/poison-get",
