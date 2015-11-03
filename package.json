@@ -1,0 +1,32 @@
+{
+  "name": "poison-get",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Throw when a user attempts to access specified properties in an object",
+  "license": "MIT",
+  "repository": "bendrucker/poison-get",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "poison",
+    "get",
+    "getter",
+    "object"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "cast-array": "~1.0.0"
+  }
+}
