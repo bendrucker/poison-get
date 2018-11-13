@@ -1,4 +1,4 @@
-# poison-get [![Build Status](https://travis-ci.org/bendrucker/poison-get.svg?branch=master)](https://travis-ci.org/bendrucker/poison-get)
+# poison-get [![Build Status](https://travis-ci.org/bendrucker/poison-get.svg?branch=master)](https://travis-ci.org/bendrucker/poison-get) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/poison-get.svg)](https://greenkeeper.io/)
 
 > Throw when a user attempts to access specified properties in an object
 
